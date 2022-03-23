@@ -1,0 +1,999 @@
+train label,class id,species
+0,102689,Unxia camphorata L.f.
+1,104587,Connarus fasciculatus (DC.) Planch.
+2,105927,Jacquemontia tamnifolia (L.) Griseb.
+3,105951,Maripa glabra Choisy
+4,105965,Maripa violacea (Aubl.) Ooststr. ex Lanj. Uittien
+5,106023,Merremia umbellata (L.) Hallier f.
+6,106387,Costus arabicus L.
+7,106398,Costus claviger Benoist
+8,106413,Costus erythrothyrsus Loes.
+9,106461,Costus scaber Ruiz Pav.
+10,106466,Costus spiralis (Jacq.) Roscoe
+11,106690,Bryophyllum pinnatum (Lam.) Oken
+12,108581,Gurania reticulata Cogn.
+13,108743,Melothria pendula L.
+14,109922,Cyathea microdonta (Desv.) Domin
+15,109976,Cyathea pungens (Willd.) Domin
+16,110027,Cyathea surinamensis (Miq.) Domin
+17,110432,Evodianthus funifer (Poit.) Lindm.
+18,11438,Hymenocallis tubiflora Salisb.
+19,116853,Pteridium arachnoideum (Kaulf.) Maxon
+20,117064,Tapura guianensis Aubl.
+21,117166,Davilla kunthii A.St.-Hil.
+22,118800,Cyclodium meniscioides (Willd.) C. Presl
+23,119986,Olfersia cervina (L.) Kunze
+24,120031,Polybotrya caudata Kunze
+25,120045,Polybotrya osmundacea Humb. Bonpl. ex Willd.
+26,120497,Diospyros capreifolia Mart. ex Hiern
+27,120499,Diospyros carbonaria Benoist
+28,120508,Diospyros cayennensis A.DC.
+29,120562,Diospyros dichroa Sandwith
+30,120569,Diospyros discolor Willd.
+31,120745,Diospyros lissocarpoides Sandwith
+32,120786,Diospyros matheriana A.C.Sm.
+33,120980,Diospyros sericea A.DC.
+34,121037,Diospyros tetrandra Hiern
+35,121088,Diospyros vestita Benoist
+36,121825,Sloanea eichleri K.Schum.
+37,121836,Sloanea grandiflora Sm.
+38,121841,Sloanea guianensis (Aubl.) Benth.
+39,121854,Sloanea latifolia (Rich.) K.Schum.
+40,12254,Anacardium occidentale L.
+41,122564,Cavendishia callista Donn.Sm.
+42,12518,Mangifera indica L.
+43,125412,Sphyrospermum cordifolium Benth.
+44,126895,Syngonanthus caulescens (Poir.) Ruhland
+45,127007,Tonina fluviatilis Aubl.
+46,127020,Erythroxylum amazonicum Peyr.
+47,127097,Erythroxylum fimbriatum Peyr.
+48,127151,Erythroxylum macrophyllum Cav.
+49,127242,Erythroxylum squamatum Sw.
+50,128664,Conceveiba martiana Baill.
+51,12910,Spondias mombin L.
+52,12922,Tapirira guianensis Aubl.
+53,12924,Tapirira obtusa (Benth.) J.D.Mitch.
+54,12932,Thyrsodium guianense Sagot ex Marchand
+55,129339,Croton matourensis Aubl.
+56,12937,Thyrsodium spruceanum Benth.
+57,129442,Croton nuntians Croizat
+58,129645,Croton schiedeanus Schltdl.
+59,130017,Dalechampia tiliifolia Lam.
+60,130657,Euphorbia cotinifolia L.
+61,131079,Euphorbia heterophylla L.
+62,131128,Euphorbia hyssopifolia L.
+63,131736,Euphorbia prostrata Aiton
+64,132107,Euphorbia thymifolia L.
+65,132113,Euphorbia tithymaloides L.
+66,132325,Glycydendron amazonicum Ducke
+67,13239,Anaxagorea dolichocarpa Sprague Sandwith
+68,132431,Hura crepitans L.
+69,132476,Jatropha curcas L.
+70,132501,Jatropha gossypiifolia L.
+71,132735,Mabea subsessilis Pax K.Hoffm.
+72,13276,Annona ambotay Aubl.
+73,133181,Manihot baccata Allem
+74,13325,Annona foetida Mart.
+75,133287,Maprounea guianensis Aubl.
+76,13330,Annona glabra L.
+77,13336,Annona haematantha Miq.
+78,133414,Omphalea diandra L.
+79,133595,Ricinus communis L.
+80,133604,Sagotia racemosa Baill.
+81,133607,Sandwithia guyanensis Lanj.
+82,133617,Sapium glandulosum (L.) Morong
+83,133630,Sapium paucinervium Hemsl.
+84,13370,Annona muricata L.
+85,13376,Annona neoelliptica H.Rainer Maas
+86,13390,Annona paludosa Aubl.
+87,13401,Annona prevostiae H.Rainer
+88,13420,Annona sericea Dunal
+89,135479,Chelonanthus alatus (Aubl.) Pulle
+90,13597,Cremastosperma brevipes (DC. ex Dunal) R.E.Fr.
+91,13656,Cymbopetalum brasiliense (Vell.) Benth. ex Baill.
+92,136761,Potalia amara Aubl.
+93,137051,Tachia guianensis Aubl.
+94,137122,Voyria caerulea Aubl.
+95,137133,Voyria rosea Aubl.
+96,13796,Duguetia calycina Benoist
+97,13811,Duguetia eximia Diels
+98,13820,Duguetia inconspicua Sagot
+99,138662,Chrysothemis pulchella (Donn ex Sims) Decne.
+100,13870,Duguetia surinamensis R.E.Fr.
+101,13879,Duguetia yeshidan Sandwith
+102,13907,Ephedranthus guianensis R.E.Fr.
+103,140367,Lembocarpus amoenus Leeuwenb.
+104,14044,Fusaea longifolia (Aubl.) Saff.
+105,141068,Sinningia incarnata (Aubl.) D.L.Denham
+106,141332,Dicranopteris flexuosa (Schrad.) Underw.
+107,141336,Dicranopteris pectinata (Willd.) Underw.
+108,141508,Gnetum urens (Aubl.) Blume
+109,141856,Goupia glabra Aubl.
+110,142550,Heliconia chartacea Lane ex Barreiros
+111,142564,Heliconia densiflora Verl.
+112,142584,Heliconia hirsuta L.f.
+113,142646,Heliconia pendula Wawra
+114,142653,Heliconia psittacorum L.f.
+115,142661,Heliconia richardiana Miq.
+116,142736,Hernandia guianensis Aubl.
+117,142779,Sparattanthelium uncigerum (Meisn.) Kubitzki
+118,14287,Guatteria guianensis (Aubl.) R.E.Fr.
+119,14294,Guatteria intermedia Scharf
+120,14314,Guatteria liesneri D.M.Johnson N.A.Murray
+121,143466,Hymenophyllum decurrens (Jacq.) Sw.
+122,143496,Hymenophyllum hirsutum (L.) Sw.
+123,14353,Guatteria ouregou (Aubl.) Dunal
+124,14359,Guatteria pannosa Scharf Maas
+125,143674,Trichomanes ankersii C. Parker ex Hook. Grev.
+126,143676,Trichomanes arbuscula Desv.
+127,143697,Trichomanes crispum L.
+128,143706,Trichomanes diversifrons (Bory) Mett. ex Sadeb.
+129,143710,Trichomanes elegans Rich.
+130,143731,Trichomanes krausii Hook. Grev.
+131,143749,Trichomanes pedicellatum Desv.
+132,143755,Trichomanes pinnatum Hedw.
+133,143758,Trichomanes punctatum Poir.
+134,143780,Trichomanes trollii Bergdolt
+135,143783,Trichomanes vittaria DC. ex Poir.
+136,14401,Guatteria scandens Ducke
+137,14402,Guatteria schomburgkiana Mart.
+138,144341,Vismia cayennensis (Jacq.) Pers.
+139,144357,Vismia latifolia (Aubl.) Choisy
+140,144377,Vismia ramuliflora Miq.
+141,144384,Vismia sessilifolia (Aubl.) Choisy
+142,144394,Didymochlaena truncatula (Sw.) J. Sm.
+143,144643,Emmotum fagifolium Desv. ex Ham.
+144,145020,Cipura paludosa Aubl.
+145,145231,Eleutherine bulbosa (Mill.) Urb.
+146,14741,Oxandra asbeckii (Pulle) R.E.Fr.
+147,14766,Oxandra xylopioides Diels
+148,148077,Lacistema aggregatum (P.J.Bergius) Rusby
+149,148080,Lacistema grandifolium Schnizl.
+150,148086,Lacistema polystachyum Schnizl.
+151,148220,Aegiphila macrantha Ducke
+152,148291,Aegiphila villosa (Aubl.) J.F.Gmel.
+153,148446,Amasonia campestris (Aubl.) Moldenke
+154,148977,Clerodendrum paniculatum L.
+155,149264,Congea tomentosa Roxb.
+156,14939,Pseudoxandra cuspidata Maas
+157,149682,Gmelina philippensis Cham.
+158,149919,Holmskioldia sanguinea Retz.
+159,150135,Hyptis lanceolata Poir.
+160,15014,Rollinia mucosa (Jacq.) Baill.
+161,150179,Hyptis mutabilis (Rich.) Briq.
+162,150888,Marsypianthes chamaedrys (Vahl) Kuntze
+163,15089,Trigynaea caudata (R.E. Fr.) R.E. Fr.
+164,15091,Trigynaea duckei (R.E.Fr.) R.E.Fr.
+165,15119,Unonopsis glaucopetala R.E.Fr.
+166,15120,Unonopsis guatterioides (A.DC.) R.E.Fr.
+167,15135,Unonopsis perrottetii (A. DC.) R.E. Fr.
+168,15140,Unonopsis rufescens (Baill.) R.E. Fr.
+169,151469,Ocimum campechianum Mill.
+170,15147,Unonopsis stipitata Diels
+171,151593,Orthosiphon aristatus (Blume) Miq.
+172,152143,Plectranthus amboinicus (Lour.) Spreng.
+173,15318,Xylopia aromatica (Lam.) Mart.
+174,15330,Xylopia cayennensis Maas
+175,15336,Xylopia crinita R.E.Fr.
+176,15355,Xylopia frutescens Aubl.
+177,15382,Xylopia nitida Dunal
+178,15409,Xylopia surinamensis R.E. Fr.
+179,156069,Vitex orinocensis Kunth
+180,156425,Aiouea guianensis Aubl.
+181,156430,Aiouea longipetiolata van der Werff
+182,156435,Aiouea opaca van der Werff
+183,156507,Aniba citrifolia (Nees) Mez
+184,156516,Aniba guianensis Aubl.
+185,156523,Aniba kappleri Mez
+186,156526,Aniba megaphylla Mez
+187,156529,Aniba panurensis (Meisn.) Mez
+188,156530,Aniba parviflora (Meisn.) Mez
+189,156543,Aniba taubertiana Mez
+190,157810,Endlicheria canescens Chanderbali
+191,157841,Endlicheria punctulata (Mez) C.K.Allen
+192,157842,Endlicheria pyriformis (Nees) Mez
+193,157870,Kubitzkia mezii (Kosterm.) van der Werff
+194,157894,Licaria chrysophylla (Meisn.) Kosterm.
+195,157911,Licaria martiniana (Mez) Kosterm.
+196,157917,Licaria pachycarpa (Meisn.) Kosterm.
+197,158323,Nectandra amazonum Nees
+198,158341,Nectandra cissiflora Nees
+199,158534,Ocotea amazonica (Meisn.) Mez
+200,158542,Ocotea argyrophylla Ducke
+201,158592,Ocotea cernua (Nees) Mez
+202,158596,Ocotea cinerea van der Werff
+203,158612,Ocotea cujumary Mart.
+204,158629,Ocotea diffusa van der Werff
+205,158653,Ocotea floribunda (Sw.) Mez
+206,158668,Ocotea glomerata (Nees) Mez
+207,158728,Ocotea leucoxylon (Sw.) Laness.
+208,158736,Ocotea longifolia Kunth
+209,158784,Ocotea nigra Benoist
+210,158793,Ocotea oblonga (Meisn.) Mez
+211,158816,Ocotea percurrens Vicent.
+212,158833,Ocotea puberula (Rich.) Nees
+213,158866,Ocotea scabrella van der Werff
+214,158884,Ocotea splendens (Meisn.) Baill.
+215,158894,Ocotea subterminalis van der Werff
+216,159248,Rhodostemonodaphne grandis (Mez) Rohwer
+217,159434,Couratari guianensis Aubl.
+218,159437,Couratari multiflora (Sm.) Eyma
+219,159445,Couratari stellata A.C.Sm.
+220,159483,Eschweilera coriacea (DC.) S.A.Mori
+221,159486,Eschweilera decolorans Sandwith
+222,159490,Eschweilera grandiflora (Aubl.) Sandwith
+223,159505,Eschweilera micrantha (O.Berg) Miers
+224,159516,Eschweilera parviflora (Aubl.) Miers
+225,159518,Eschweilera pedicellata (Rich.) S.A.Mori
+226,159535,Eschweilera sagotiana Miers
+227,159539,Eschweilera squamata S.A.Mori
+228,159541,Eschweilera subglandulosa (Steud. ex O.Berg) Miers
+229,159581,Gustavia augusta L.
+230,159597,Gustavia hexapetala (Aubl.) Sm.
+231,159625,Lecythis chartacea O.Berg
+232,159627,Lecythis corrugata Poit.
+233,159629,Lecythis holcogyne (Sandwith) S.A.Mori
+234,159630,Lecythis idatimon Aubl.
+235,159637,Lecythis persistens Sagot
+236,159640,Lecythis poiteaui O.Berg
+237,159647,Lecythis zabucajo Aubl.
+238,159714,Abarema gallorum Barneby J.W.Grimes
+239,159719,Abarema jupunba (Willd.) Britton Killip
+240,160570,Acacia mangium Willd.
+241,161033,Acacia tenuifolia (L.) Willd.
+242,162067,Alexa wachenheimii Benoist
+243,166135,Bauhinia guianensis Aubl.
+244,166405,Bocoa prouacensis Aubl.
+245,166822,Caesalpinia pulcherrima (L.) Sw.
+246,166869,Cajanus cajan (L.) Millsp.
+247,167094,Calliandra surinamensis Benth.
+248,167503,Cassia grandis L.f.
+249,167549,Cassia spruceana Benth.
+250,167721,Chamaecrista apoucouita (Aubl.) H.S.Irwin Barneby
+251,167811,Chamaecrista desvauxii (Collad.) Killip
+252,167813,Chamaecrista diphylla (L.) Greene
+253,167921,Chamaecrista nictitans (L.) Moench
+254,168290,Clitoria sagotii Fantz
+255,169293,Crotalaria retusa L.
+256,169457,Crudia bracteata Benth.
+257,169479,Crudia oblonga Benth.
+258,169495,Crudia tomentosa (Aubl.) J.F.Macbr.
+259,169611,Cynometra hostmanniana Tul.
+260,169943,Dalbergia monetaria L.f.
+261,17032,Eryngium foetidum L.
+262,170879,Dialium guianense (Aubl.) Sandwith
+263,170934,Dicorynia guianensis Amshoff
+264,171057,Dioclea guianensis Benth.
+265,171067,Dioclea macrocarpa Huber
+266,171131,Diplotropis purpurea (Rich.) Amshoff
+267,171333,Dussia discolor (Benth.) Amshoff
+268,171452,Entada polystachya (L.) DC.
+269,171479,Enterolobium oldemanii Barneby J.W.Grimes
+270,171485,Eperua falcata Aubl.
+271,171495,Eperua rubiginosa Miq.
+272,171727,Erythrina fusca Lour.
+273,173155,Hymenaea courbaril L.
+274,173907,Inga acrocephala Steud.
+275,173912,Inga alata Benoist
+276,173914,Inga alba (Sw.) Willd.
+277,173972,Inga capitata Desv.
+278,174017,Inga edulis Mart.
+279,174029,Inga fanchoniana Poncy
+280,174063,Inga huberi Ducke
+281,174066,Inga ingoides (Rich.) Willd.
+282,174076,Inga jenmanii Sandwith
+283,174087,Inga lateriflora Miq.
+284,174137,Inga nobilis Willd.
+285,174138,Inga nouragensis Poncy
+286,174158,Inga paraensis Ducke
+287,174163,Inga pezizifera Benth.
+288,174165,Inga pilosula (Rich.) J.F.Macbr.
+289,174170,Inga poeppigiana Benth.
+290,174188,Inga retinocarpa Poncy
+291,174207,Inga sarmentosa Glaz. ex Harms
+292,174213,Inga sertulifera DC.
+293,174233,Inga striata Benth.
+294,174252,Inga thibaudiana DC.
+295,176381,Machaerium lunatum (L.f.) Ducke
+296,176453,Macrolobium acaciifolium (Benth.) Benth.
+297,176461,Macrolobium bifolium (Aubl.) Pers.
+298,177501,Mimosa guilandinae (DC.) Barneby
+299,177730,Mimosa pigra L.
+300,177775,Mimosa pudica L.
+301,178094,Mucuna sloanei Fawc. Rendle
+302,178589,Ormosia coccinea (Aubl.) Jacks.
+303,178591,Ormosia costulata (Miq.) Kleinhoonte
+304,178637,Ormosia melanocarpa Kleinhoonte
+305,178654,Ormosia paraensis Ducke
+306,179451,Paramachaerium ormosioides (Ducke) Ducke
+307,179495,Parkia nitida Miq.
+308,179511,Parkia ulei (Harms) Kuhlm.
+309,179512,Parkia velutina Benoist
+310,179616,Peltogyne lecointei Ducke
+311,179643,Pentaclethra macroloba (Willd.) Kuntze
+312,180253,Poecilanthe effusa (Huber) Ducke
+313,180255,Poecilanthe hostmannii (Benth.) Amshoff
+314,180446,Pseudopiptadenia suaveolens (Miq.) J.W. Grimes
+315,180631,Pterocarpus officinalis Jacq.
+316,181966,Sclerolobium guianense Benth.
+317,181973,Sclerolobium melinonii Harms
+318,182092,Senna alata (L.) Roxb.
+319,182140,Senna chrysocarpa (Desv.) H.S.Irwin Barneby
+320,182246,Senna obtusifolia (L.) H.S.Irwin Barneby
+321,182247,Senna occidentalis (L.) Link
+322,182826,Spirotropis longifolia (DC.) Baill.
+323,182907,Stryphnodendron guianense (Aubl.) Benth.
+324,183060,Swartzia aptera DC.
+325,183061,Swartzia arborescens (Aubl.) Pittier
+326,183069,Swartzia benthamiana Miq.
+327,183113,Swartzia guianensis (Aubl.) Urb.
+328,183144,Swartzia longicarpa Amshoff
+329,183176,Swartzia panacoco (Aubl.) Cowan
+330,183194,Swartzia polyphylla DC.
+331,183297,Tachigali melanocarpa (Ducke) van der Werff
+332,183298,Tachigali melinonii (Harms) Zarucchi Herend.
+333,183304,Tachigali paniculata Aubl.
+334,183305,Tachigali paraensis (Huber) Barneby
+335,183318,Tachigali richardiana Tul.
+336,183350,Taralea oppositifolia Aubl.
+337,184434,Vatairea erythrocarpa (Ducke) Ducke
+338,184849,Vouacapoua americana Aubl.
+339,185128,Zygia racemosa (Ducke) Barneby J.W. Grimes
+340,185133,Zygia sabatieri Barneby J.W. Grimes
+341,185302,Utricularia foliosa L.
+342,185321,Utricularia hispida Lam.
+343,185430,Utricularia subulata L.
+344,186582,Lindernia crustacea (L.) F.Muell.
+345,186696,Lindsaea divaricata Klotzsch
+346,186704,Lindsaea guianensis (Aubl.) Dryand.
+347,186714,Lindsaea lancea (L.) Bedd.
+348,186746,Lindsaea quadrangularis Raddi
+349,186757,Lindsaea stricta (Sw.) Dryand.
+350,187279,Spigelia anthelmia L.
+351,187306,Spigelia hamelioides Kunth
+352,187390,Strychnos cayennensis Krukoff Barneby
+353,187515,Strychnos tomentosa Benth.
+354,187824,Cladocolea micrantha (Eichler) Kuijt
+355,188837,Huperzia taxifolia (Sw.) Trevis.
+356,189086,Lygodium venustum Sw.
+357,189087,Lygodium volubile Sw.
+358,189172,Cuphea carthagenensis (Jacq.) J.F.Macbr.
+359,189532,Lafoensia vandelliana Cham. Schltdl.
+360,189549,Lagerstroemia speciosa (L.) Pers.
+361,189669,Punica granatum L.
+362,190183,Bunchosia argentea (Jacq.) DC.
+363,190287,Byrsonima christianeae W.R.Anderson
+364,191373,Abelmoschus moschatus Medik.
+365,191642,Adansonia digitata L.
+366,19165,Allamanda cathartica L.
+367,191839,Apeiba tibourbou Aubl.
+368,192142,Byttneria cordifolia Sagot
+369,192285,Catostemma fragrans Benth.
+370,192311,Ceiba pentandra (L.) Gaertn.
+371,193141,Gossypium barbadense L.
+372,19341,Ambelania acida Aubl.
+373,193515,Guazuma ulmifolia Lam.
+374,193600,Helicteres pentandra L.
+375,193927,Hibiscus furcellatus Desr.
+376,194035,Hibiscus rosa-sinensis L.
+377,194115,Huberodendron swietenioides (Gleason) Ducke
+378,194252,Lueheopsis rugosa (Pulle) Burret
+379,194701,Ochroma pyramidale (Cav. ex Lam.) Urb.
+380,194716,Pachira dolichocalyx A. Robyns
+381,19489,Asclepias curassavica L.
+382,195192,Quararibea duckei Huber
+383,195201,Quararibea guianensis Aubl.
+384,195246,Quararibea turbinata (Sw.) Poir.
+385,195454,Sida rhombifolia L.
+386,195628,Sterculia frondosa Rich.
+387,195663,Sterculia pruriens (Aubl.) K.Schum.
+388,195688,Sterculia villifera Steud.
+389,195752,Theobroma cacao L.
+390,195768,Theobroma subincanum Mart.
+391,195770,Theobroma velutinum Benoist
+392,196487,Maranta rupicola L.Andersson
+393,196781,Danaea nodosa (L.) Sm.
+394,196785,Danaea simplicifolia Rudge
+395,196866,Marcgravia pedunculosa Triana Planch.
+396,196912,Norantea guianensis Aubl.
+397,196966,Souroubea guianensis Aubl.
+398,19758,Aspidosperma sandwithianum Markgr.
+399,197755,Aciotis indecora (Bonpl.) Triana
+400,197761,Aciotis purpurascens (Aubl.) Triana
+401,197791,Adelobotrys adscendens (Sw.) Triana
+402,197861,Appendicularia thymifolia (Bonpl.) DC.
+403,197919,Bellucia grossularioides (L.) Triana
+404,198260,Clidemia conglomerata DC.
+405,198307,Clidemia hirta (L.) D. Don
+406,198315,Clidemia laevifolia Gleason
+407,198341,Clidemia petiolata DC.
+408,198363,Clidemia septuplinervia Cogn.
+409,198419,Comolia villosa (Aubl.) Triana
+410,198471,Desmoscelis villosa (Aubl.) Naudin
+411,198555,Ernestia confertiflora Wurdack
+412,198557,Ernestia glandulosa Gleason
+413,198802,Henriettea succosa (Aubl.) DC.
+414,198819,Henriettella flavescens (Aubl.) Triana
+415,19887,Blepharodon pictum (Vahl) W.D.Stevens
+416,198971,Leandra divaricata (Naudin) Cogn.
+417,199099,Leandra rufescens (DC.) Cogn.
+418,199111,Leandra solenifera Cogn.
+419,199158,Loreya mespiloides Miq.
+420,199197,Macrocentrum cristatum (DC.) Triana
+421,199220,Maieta guianensis Aubl.
+422,199580,Miconia acuminata (Steud.) Naudin
+423,199587,Miconia affinis DC.
+424,199591,Miconia alata (Aubl.) DC.
+425,199627,Miconia argyrophylla DC.
+426,199672,Miconia bracteata (DC.) Triana
+427,199728,Miconia ceramicarpa (DC.) Cogn.
+428,199742,Miconia chrysophylla (Rich.) Urb.
+429,199744,Miconia ciliata (Rich.) DC.
+430,199810,Miconia diaphanea Gleason
+431,199838,Miconia egensis Cogn.
+432,199938,Miconia holosericea (L.) DC.
+433,200006,Miconia lateriflora Cogn.
+434,200031,Miconia longifolia (Aubl.) DC.
+435,200075,Miconia melinonis Naudin
+436,200087,Miconia minutiflora (Bonpl.) DC.
+437,200119,Miconia nervosa (Sm.) Triana
+438,200202,Miconia plukenetii Naudin
+439,200204,Miconia poeppigii Triana
+440,200215,Miconia prasina (Sw.) DC.
+441,200228,Miconia pubipetala Miq.
+442,200249,Miconia racemosa (Aubl.) DC.
+443,200319,Miconia serialis DC.
+444,200320,Miconia serrulata (DC.) Naudin
+445,200338,Miconia splendens (Sw.) Griseb.
+446,200402,Miconia tomentosa (Rich.) D. Don ex DC.
+447,200638,Mouriri collocarpa Ducke
+448,200640,Mouriri crassifolia Sagot
+449,200660,Mouriri grandiflora DC.
+450,200676,Mouriri nervosa Pilg.
+451,200679,Mouriri oligantha Pilg.
+452,200692,Mouriri sagotiana Triana
+453,200704,Mouriri vernicosa Naudin
+454,200712,Nepsera aquatica (Aubl.) Naudin
+455,200877,Pterolepis glomerata (Rottb.) Miq.
+456,200915,Rhynchanthera grandiflora (Aubl.) DC.
+457,201073,Tibouchina aspera Aubl.
+458,201318,Tococa guianensis Aubl.
+459,201384,Topobea parasitica Aubl.
+460,201444,Votomita guianensis Aubl.
+461,201652,Carapa guianensis Aubl.
+462,201678,Cedrela odorata L.
+463,201893,Guarea guidonia (L.) Sleumer
+464,202049,Swietenia mahagoni (L.) Jacq.
+465,202107,Trichilia micrantha Benth.
+466,202118,Trichilia pallida Sw.
+467,202134,Trichilia schomburgkii C.DC.
+468,202271,Abuta sandwithiana Krukoff Barneby
+469,202825,Metaxya rostrata (Kunth) C. Presl
+470,203347,Brosimum rubescens Taub.
+471,203918,Ficus leiophylla C.C.Berg
+472,2041,Justicia betonica L.
+473,204178,Ficus schumacheri (Liebm.) Griseb.
+474,204277,Ficus trigona L.f.
+475,204432,Pseudolmedia laevis (Ruiz Pav.) J.F.Macbr.
+476,204499,Trymatococcus amazonicus Poepp. Endl.
+477,204775,Iryanthera paraensis Huber
+478,204777,Iryanthera sagotiana (Benth.) Warb.
+479,20515,Couma guianensis Aubl.
+480,205170,Calycorectes bergii Sandwith
+481,205179,Calycorectes grandifolius O.Berg
+482,205564,Campomanesia grandiflora (Aubl.) Sagot
+483,206694,Eugenia albicans (O.Berg) Urb.
+484,206710,Eugenia anastomosans DC.
+485,206728,Eugenia argyrophylla B.Holst M.L.Kawas.
+486,206729,Eugenia armeniaca Sagot
+487,206767,Eugenia biflora (L.) DC.
+488,206874,Eugenia coffeifolia DC.
+489,206927,Eugenia cupulata Amshoff
+490,207009,Eugenia florida DC.
+491,207042,Eugenia gongylocarpa M.L.Kawas. B.K.Holst
+492,2071,Justicia calycina (Nees) V.A.W.Graham
+493,207161,Eugenia lambertiana DC.
+494,207167,Eugenia latifolia Aubl.
+495,207375,Eugenia patrisii Vahl
+496,207441,Eugenia pseudopsidium Jacq.
+497,207452,Eugenia punicifolia (Kunth) DC.
+498,207470,Eugenia ramiflora Desv. ex Ham.
+499,207575,Eugenia spruceana O.Berg
+500,207589,Eugenia stictopetala DC.
+501,208641,Myrcia amazonica DC.
+502,208673,Myrcia bracteata (Rich.) DC.
+503,208724,Myrcia decorticans DC.
+504,208788,Myrcia guianensis (Aubl.) DC.
+505,208865,Myrcia multiflora (Lam.) DC.
+506,208949,Myrcia rupta M.L.Kawas. B.K.Holst
+507,208956,Myrcia saxatilis (Amshoff) McVaugh
+508,208971,Myrcia splendens (Sw.) DC.
+509,208994,Myrcia sylvatica (G.Mey.) DC.
+510,209006,Myrcia tomentosa (Aubl.) DC.
+511,209078,Myrciaria floribunda (H.West ex Willd.) O.Berg
+512,209327,Psidium guajava L.
+513,209328,Psidium guineense Sw.
+514,211059,Nephrolepis biserrata (Sw.) Schott
+515,211075,Nephrolepis rivularis (Vahl) Mett. ex Krug
+516,211519,Neea floribunda Poepp. Endl.
+517,211755,Elvasia elvasioides (Planch.) Gilg
+518,211759,Elvasia macrostipularis Sastre Lescure
+519,211958,Ouratea cerebroidea Sastre
+520,212012,Ouratea guianensis Aubl.
+521,212087,Ouratea pendula Poepp. ex Engl.
+522,212120,Ouratea scottii Sastre
+523,212199,Quiina integrifolia Pulle
+524,212213,Quiina obovata Tul.
+525,212342,Chaunochiton kappleri (Sagot ex Engl.) Ducke
+526,212378,Heisteria cauliflora Sm.
+527,212384,Heisteria densifrons Engl.
+528,212395,Heisteria ovata Benth.
+529,212412,Minquartia guianensis Aubl.
+530,212920,Jasminum sambac (L.) Aiton
+531,21329,Forsteronia acouci (Aubl.) A.DC.
+532,213809,Ludwigia affinis (DC.) H.Hara
+533,213831,Ludwigia erecta (L.) H.Hara
+534,213841,Ludwigia hyssopifolia (G.Don) Exell
+535,213850,Ludwigia leptocarpa (Nutt.) H.Hara
+536,213864,Ludwigia nervosa (Poir.) H.Hara
+537,213866,Ludwigia octovalvis (Jacq.) P.H.Raven
+538,21388,Geissospermum argenteum Woodson
+539,21391,Geissospermum laeve (Vell.) Miers
+540,214245,Agonandra silvatica Ducke
+541,216314,Brassia lanceana Lindl.
+542,21718,Himatanthus articulatus (Vahl) Woodson
+543,21973,Lacmellea aculeata (Ducke) Monach.
+544,220108,Cleistes rosea Lindl.
+545,22118,Macoubea guianensis Aubl.
+546,22180,Malouetia tamaquarina (Aubl.) A.DC.
+547,22256,Mandevilla hirsuta (Rich.) K.Schum.
+548,22319,Mandevilla rugellosa (Rich.) L.Allorge
+549,22348,Mandevilla subspicata (Vahl) Markgr.
+550,226017,Epidendrum nocturnum Jacq.
+551,229370,Ionopsis utricularioides (Sw.) Lindl.
+552,229955,Lepanthes cremersii Luer
+553,23107,Odontadenia puncticulosa (Rich.) Pulle
+554,232112,Masdevallia minuta Lindl.
+555,23429,Parahancornia fasciculata (Poir.) Benoist
+556,235182,Palmorchis prospectorum Veyret
+557,236883,Pleurothallis lanceana Lodd.
+558,237053,Pleurothallis ruscifolia (Jacq.) R.Br.
+559,237937,Prescottia stachyodes (Sw.) Lindl.
+560,2401,Justicia pectoralis Jacq.
+561,242361,Trigonidium acuminatum Bateman ex Lindl.
+562,244705,Averrhoa carambola L.
+563,24557,Tabernaemontana undulata Vahl
+564,248199,Piriqueta cistoides (L.) Griseb.
+565,248283,Turnera aurantiaca Benth.
+566,248325,Turnera guianensis Aubl.
+567,248357,Turnera odorata Rich.
+568,248374,Turnera rupestris Aubl.
+569,248392,Turnera ulmifolia L.
+570,248478,Sesamum indicum L.
+571,248950,Ternstroemia dentata (Aubl.) Sw.
+572,249138,Pogonophora schomburgkiana Miers ex Benth.
+573,249436,Amanoa guianensis Aubl.
+574,250534,Phyllanthus brasiliensis (Aubl.) Poir.
+575,251291,Phyllanthus urinaria L.
+576,251585,Microtea debilis Sw.
+577,251624,Rivina humilis L.
+578,252665,Peperomia macrostachya (Vahl) A.Dietr.
+579,252779,Peperomia ouabianae C.DC.
+580,252811,Peperomia pellucida (L.) Kunth
+581,253046,Peperomia serpens (Sw.) Loudon
+582,253695,Piper eucalyptifolium Rudge
+583,253836,Piper hostmannianum (Miq.) C.DC.
+584,254000,Piper marginatum Jacq.
+585,254111,Piper obliquum Ruiz Pav.
+586,254180,Piper peltatum L.
+587,256363,Scoparia dulcis L.
+588,257336,Plumbago auriculata Lam.
+589,26327,Anthurium gracile (Rudge) Lindl.
+590,26393,Anthurium jenmanii Engl.
+591,26635,Anthurium pentaphyllum (Aubl.) G.Don
+592,270090,Mourera fluviatilis Aubl.
+593,270961,Moutabea guianensis Aubl.
+594,271764,Securidaca diversifolia (L.) S.F.Blake
+595,271781,Securidaca paniculata Rich.
+596,27221,Caladium bicolor (Aiton) Vent.
+597,273462,Campyloneurum repens (Aubl.) C. Presl
+598,274102,Microgramma fuscopunctata (Hook.) Vareschi
+599,274108,Microgramma lycopodioides (L.) Copel.
+600,274114,Microgramma percussa (Cav.) de la Sota
+601,274118,Microgramma reptans (Cav.) A.R. Sm.
+602,274257,Niphidium crassifolium (L.) Lellinger
+603,27455,Dieffenbachia parvifolia Engl.
+604,27457,Dieffenbachia seguine (Jacq.) Schott
+605,274693,Polypodium triseriale Sw.
+606,27492,Dracontium polyphyllum L.
+607,275029,Eichhornia crassipes (Mart.) Solms
+608,275255,Portulaca grandiflora Hook.
+609,27569,Heteropsis flexuosa (Kunth) G.S.Bunting
+610,27581,Heteropsis tenuispadix G.S.Bunting
+611,276624,Clavija lancifolia Desf.
+612,27760,Monstera adansonii Schott
+613,27803,Montrichardia arborescens (L.) Schott
+614,279396,Panopsis sessilifolia (Rich.) Sandwith
+615,279552,Roupala montana Aubl.
+616,279730,Acrostichum aureum L.
+617,279732,Acrostichum danaeifolium Langsd. Fisch.
+618,279781,Adiantum argutum Splitg.
+619,279787,Adiantum cajennense Willd. ex Klotzsch
+620,279833,Adiantum glaucescens Klotzsch
+621,279848,Adiantum latifolium Lam.
+622,279849,Adiantum leprieurii Hook.
+623,279853,Adiantum lucidum (Cav.) Sw.
+624,279869,Adiantum obliquum Willd.
+625,279877,Adiantum paraense Hieron.
+626,279884,Adiantum petiolatum Desv.
+627,27989,Philodendron fragrantissimum (Hook.) G.Don
+628,279895,Adiantum pulverulentum L.
+629,279923,Adiantum terminatum Kunze ex Miq.
+630,279924,Adiantum tetraphyllum Humb. Bonpl. ex Willd.
+631,279988,Anetium citrifolium (L.) Splitg.
+632,280085,Ceratopteris thalictroides (L.) Brongn.
+633,28014,Philodendron hederaceum (Jacq.) Schott
+634,28037,Philodendron insigne Schott
+635,28066,Philodendron linnaei Kunth
+636,280698,Pityrogramma calomelanos (L.) Link
+637,280745,Pteris altissima Poir.
+638,280887,Pteris pungens Willd.
+639,281000,Vittaria costata Kunze
+640,281017,Vittaria lineata (L.) Sm.
+641,28131,Philodendron ornatum Schott
+642,28143,Philodendron pedatum (Hook.) Kunth
+643,28154,Philodendron placidum Schott
+644,28203,Philodendron rudgeanum Schott
+645,28225,Philodendron solimoesense A.C.Sm.
+646,28235,Philodendron squamiferum Poepp.
+647,283776,Rapatea paludosa Aubl.
+648,284430,Rhabdodendron amazonicum (Spruce ex Benth.) Huber
+649,285297,Ziziphus jujuba Mill.
+650,285398,Cassipourea guianensis Aubl.
+651,28904,Syngonium podophyllum Schott
+652,29013,Urospatha sagittifolia (Rudge) Schott
+653,290677,Amaioua guianensis Aubl.
+654,291840,Capirona decorticans Spruce
+655,291847,Carapichea ligularis (Rudge) Delprete
+656,292093,Chimarrhis microcarpa Standl.
+657,292096,Chimarrhis turbinata DC.
+658,292111,Chiococca nitida Benth.
+659,292732,Coussarea spicata Delprete
+660,293248,Duroia aquatica (Aubl.) Bremek.
+661,293559,Faramea guianensis (Aubl.) Bremek.
+662,294700,Geophila repens (L.) I.M.Johnst.
+663,295591,Isertia spiciformis DC.
+664,29586,Hydrocotyle umbellata L.
+665,296317,Kutchubaea insignis Fisch. ex DC.
+666,29686,Oreopanax capitatus (Jacq.) Decne. Planch.
+667,297360,Mussaenda incana Wall.
+668,298602,Palicourea amapaensis Steyerm.
+669,298670,Palicourea croceoides Ham.
+670,299768,Posoqueria longiflora Aubl.
+671,301640,Psychotria ulviformis Steyerm.
+672,301929,Randia armata (Sw.) DC.
+673,302476,Rudgea bremekampiana Steyerm.
+674,302787,Sabicea glabrescens Benth.
+675,302866,Sabicea velutina Benth.
+676,303214,Sipanea pratensis Aubl.
+677,30431,"Schefflera morototoni (Aubl.) Maguire, Steyerm. Frodin"
+678,305648,Ertela trifolia (L.) Kuntze
+679,305773,Galipea trifoliata Aubl.
+680,305857,Hortia excelsa Ducke
+681,306466,Zanthoxylum amapaense (Albuq.) P.G.Waterman
+682,306577,Zanthoxylum paulae (Albuq.) P.G. Waterman
+683,306775,Saccoloma inaequale (Kunze) Mett.
+684,306822,Banara guianensis Aubl.
+685,306879,Casearia acuminata DC.
+686,306892,Casearia arborea (Rich.) Urb.
+687,306921,Casearia combaymensis Tul.
+688,306961,Casearia grandiflora Cambess.
+689,306966,Casearia guianensis (Aubl.) Urb.
+690,307230,Laetia procera (Poepp.) Eichler
+691,307446,Ryania speciosa Vahl
+692,308130,Salvinia auriculata Aubl.
+693,308678,Phoradendron piperoides (Kunth) Trel.
+694,30924,Astrocaryum murumuru Mart.
+695,30925,Astrocaryum paramaca Mart.
+696,30929,Astrocaryum sciophilum (Miq.) Pulle
+697,30937,Astrocaryum vulgare Mart.
+698,309517,Allophylus leucoclados Radlk.
+699,309819,Cupania hirsuta Radlk.
+700,309845,Cupania rubiginosa (Poir.) Radlk.
+701,309849,Cupania scrobiculata Rich.
+702,30986,Attalea maripa (Aubl.) Mart.
+703,309983,Dimocarpus longan Lour.
+704,31014,Bactris acanthocarpoides Barb.Rodr.
+705,31016,Bactris aubletiana Trail
+706,31023,Bactris brongniartii Mart.
+707,31032,Bactris constanciae Barb.Rodr.
+708,310335,Matayba arborescens (Aubl.) Radlk.
+709,310355,Matayba laevigata Radlk.
+710,310373,Matayba stenodictya Radlk.
+711,31042,Bactris gastoniana Barb.Rodr.
+712,310554,Paullinia pinnata L.
+713,31061,Bactris maraja Mart.
+714,310653,Pseudima frutescens (Aubl.) Radlk.
+715,31066,Bactris oligocarpa Barb.Rodr.
+716,31071,Bactris pliniana Granv. A.J.Hend.
+717,31075,Bactris rhaphidacantha Wess.Boer
+718,310768,Serjania grandifolia Sagot ex Radlk.
+719,31082,Bactris simplicifrons Mart.
+720,310829,Serjania paucidentata DC.
+721,310914,Talisia carinata Radlk.
+722,310933,Talisia hemidasya Radlk.
+723,311021,Toulicia guianensis Aubl.
+724,311053,Vouarana guianensis Aubl.
+725,311149,Chrysophyllum argenteum Jacq.
+726,311160,Chrysophyllum cainito L.
+727,311165,Chrysophyllum cuneifolium (Rudge) A.DC.
+728,311202,Chrysophyllum pomiferum (Eyma) T.D.Penn.
+729,311210,Chrysophyllum sanguinolentum (Pierre) Baehni
+730,311223,Chrysophyllum venezuelanense (Pierre) T.D.Penn.
+731,311252,Ecclinusa guianensis Eyma
+732,311258,Ecclinusa ramiflora Mart.
+733,311462,Manilkara bidentata (A.DC.) A.Chev.
+734,311513,Manilkara paraensis (Huber) Standl.
+735,311546,Micropholis cayennensis T.D.Penn.
+736,311557,Micropholis guyanensis (A.DC.) Pierre
+737,311563,Micropholis melinoniana Pierre
+738,311565,Micropholis obscura T.D.Penn.
+739,311974,Pouteria cicatricata T.D.Penn.
+740,312000,Pouteria eugeniifolia (Pierre) Baehni
+741,312005,Pouteria filipes Eyma
+742,312024,Pouteria gongrijpii Eyma
+743,312054,Pouteria macrophylla (Lam.) Eyma
+744,312118,Pouteria rodriguesiana Pires T.D.Penn.
+745,312121,Pouteria sagotiana (Baill.) Eyma
+746,312135,Pouteria speciosa (Ducke) Baehni
+747,312150,Pouteria torta (Mart.) Radlk.
+748,312158,Pouteria venosa (Mart.) Baehni
+749,312172,Pradosia cochlearia (Lecomte) T.D.Penn.
+750,312184,Pradosia ptychandra (Eyma) T.D.Penn.
+751,312237,Sarcaulus brasiliensis (A.DC.) Eyma
+752,313517,Schizaea elegans (Vahl) Sw.
+753,313568,Schlegelia violacea Griseb.
+754,315398,Selaginella conduplicata Spring
+755,315564,Selaginella parkeri (Hook. Grev.) Spring
+756,315584,Selaginella producta Baker
+757,315597,Selaginella radiata Baker
+758,315603,Selaginella revoluta Baker
+759,315651,Selaginella sulcata (Desv. ex Poir.) Spring ex Mart.
+760,315771,Picrolemma sprucei Hook.f.
+761,315831,Simaba polyphylla (Cavalcante) W.W. Thomas
+762,315862,Siparuna cristata (Poepp. Endl.) A.DC.
+763,315864,Siparuna cuspidata (Tul.) A.DC.
+764,315866,Siparuna decipiens (Tul.) A.DC.
+765,315877,Siparuna guianensis Aubl.
+766,315899,Siparuna poeppigii (Tul.) A. DC.
+767,316145,Smilax siphilitica Humb. Bonpl. ex Willd.
+768,316306,Brunfelsia guianensis Benth.
+769,316519,Cestrum latifolium Lam.
+770,317044,Lycianthes pauciflora (Vahl) Bitter
+771,317444,Physalis angulata L.
+772,317531,Physalis pubescens L.
+773,317643,Schwenckia americana L.
+774,317709,Solandra longiflora Tussac
+775,317765,Solanum americanum Mill.
+776,317809,Solanum asperum Rich.
+777,317986,Solanum crinitum Lam.
+778,318110,Solanum fulvidum Bitter
+779,318253,Solanum jamaicense Mill.
+780,318313,Solanum leucocarpon Dunal
+781,318639,Solanum rugosum Dunal
+782,318675,Solanum schlechtendalianum Walp.
+783,318743,Solanum stramoniifolium Jacq.
+784,318807,Solanum torvum Sw.
+785,318869,Solanum velutinum Dunal
+786,319098,Discophora guianensis Miers
+787,319391,Styrax pallidus A.DC.
+788,320058,Tectaria incisa Cav.
+789,320118,Tectaria plantaginea (Jacq.) Maxon
+790,320168,Tectaria trifoliata (L.) Cav.
+791,320188,Triplophyllum funestum (Kunze) Holttum
+792,32035,Desmoncus orthacanthos Mart.
+793,32037,Desmoncus polyacanthos Mart.
+794,321160,Thelypteris abrupta (Desv.) Proctor
+795,321261,Thelypteris decussata (L.) Proctor
+796,321303,Thelypteris glandulosa (Desv.) Proctor
+797,321529,Thelypteris serrata (Cav.) Alston
+798,32248,Euterpe oleracea Mart.
+799,32258,Geonoma baculifera (Poit.) Kunth
+800,32272,Geonoma deversa (Poit.) Kunth
+801,322921,Ampelocera edentula Kuhlm.
+802,32293,Geonoma maxima (Poit.) Kunth
+803,323153,Cecropia sciadophylla Mart.
+804,32316,Geonoma stricta (Poit.) Kunth
+805,323166,Coussapoa angustifolia Aubl.
+806,323189,Coussapoa latifolia Aubl.
+807,324133,Pilea imparifolia Wedd.
+808,32433,Hyospathe elegans Mart.
+809,324330,Pourouma bicolor Mart.
+810,324340,Pourouma guianensis Aubl.
+811,324344,Pourouma minor Benoist
+812,324353,Pourouma saulensis C.C. Berg Kooy
+813,324356,Pourouma velutina Mart. ex Miq.
+814,325055,Duranta erecta L.
+815,325220,Lantana camara L.
+816,325552,Petrea bracteata Steud.
+817,325562,Petrea volubilis L.
+818,325605,Priva lappulacea (L.) Pers.
+819,325648,Stachytarpheta cayennensis (Rich.) Vahl
+820,325681,Stachytarpheta jamaicensis (L.) Vahl
+821,326051,Paypayrola hulkiana Pulle
+822,326060,Rinorea amapensis Hekking
+823,326108,Rinorea flavescens (Aubl.) Kuntze
+824,326115,Rinorea guianensis Aubl.
+825,326175,Rinorea pubiflora (Benth.) Sprague Sandwith
+826,32768,Mauritia flexuosa L.f.
+827,327875,Vochysia guianensis Aubl.
+828,330070,Alpinia galanga (L.) Willd.
+829,330590,Curcuma longa L.
+830,330705,Etlingera elatior (Jack) R.M.Sm.
+831,331212,Renealmia floribunda K.Schum.
+832,331234,Renealmia orinocensis Rusby
+833,33309,Socratea exorrhiza (Mart.) H.Wendl.
+834,33348,Syagrus inajai (Spruce) Becc.
+835,33693,Aristolochia iquitensis O.C.Schmidt
+836,3454,Ruellia rubra Aubl.
+837,3491,Ruellia tuberosa L.
+838,37194,Asplenium abscissum Willd.
+839,373,Asystasia gangetica (L.) T.Anderson
+840,37371,Asplenium hostmannii Hieron.
+841,37382,Asplenium juglandifolium Lam.
+842,37525,Asplenium rutaceum (Willd.) Mett.
+843,37545,Asplenium serratum L.
+844,38247,Diplazium cristatum (Desr.) Alston
+845,38260,Diplazium expansum Willd.
+846,38272,Diplazium grandifolium (Sw.) Sw.
+847,38515,Helosis cayennensis (Sw.) Spreng.
+848,39604,Begonia glabra Aubl.
+849,41751,Adenocalymma moringifolium (DC.) L.G.Lohmann
+850,41752,Adenocalymma neoflavidum L.G.Lohmann
+851,41764,Adenocalymma racemosum (A.H.Gentry) L.G.Lohmann
+852,41801,Amphilophium elongatum (Vahl) L.G.Lohmann
+853,41810,Amphilophium magnoliifolium (Kunth) L.G.Lohmann
+854,41913,Bignonia aequinoctialis L.
+855,41921,Bignonia corymbosa (Vent.) L.G.Lohmann
+856,41941,Callichlamys latifolia (Rich.) K. Schum.
+857,41992,Crescentia cujete L.
+858,42003,Cuspidaria inaequalis (DC. ex Splitg.) L.G.Lohmann
+859,42046,Dolichandra unguis-cati (L.) L.G.Lohmann
+860,42087,Fridericia candicans (Rich.) L.G.Lohmann
+861,42122,Fridericia oligantha (Bureau K.Schum.) L.G.Lohmann
+862,42180,Handroanthus serratifolius (Vahl) S.O.Grose
+863,42220,Jacaranda copaia (Aubl.) D.Don
+864,42258,Kigelia africana (Lam.) Benth.
+865,42264,Lundia corymbifera (Vahl) Sandwith
+866,42278,Mansoa alliacea (Lam.) A.H.Gentry
+867,42289,Mansoa standleyi (Steyerm.) A.H.Gentry
+868,42532,Tabebuia insignis (Miq.) Sandwith
+869,42586,Tanaecium pyramidatum (Rich.) L.G.Lohmann
+870,42594,Tecoma capensis (Thunb.) Lindl.
+871,42649,Bixa orellana L.
+872,42658,Cochlospermum orinocense (Kunth) Steud.
+873,42799,Blechnum serrulatum Rich.
+874,4283,Lindackeria paludosa (Benth.) Gilg
+875,4291,Mayna odorata Aubl.
+876,43548,Cordia nodosa Lam.
+877,50269,Aechmea aquilega (Salisb.) Griseb.
+878,50420,Aechmea mertensii (G.Mey.) Schult. Schult.f.
+879,50551,Araeococcus micranthus Brongn.
+880,50622,Billbergia violacea Beer
+881,51237,Guzmania lingulata (L.) Mez
+882,52657,Tillandsia bulbosa Hook.
+883,52973,Tillandsia monadelpha (E.Morren) Baker
+884,53804,Burmannia bicolor Mart.
+885,54503,Protium apiculatum Swart
+886,54525,Protium decandrum (Aubl.) Marchand
+887,54543,Protium heptaphyllum (Aubl.) Marchand
+888,54566,Protium opacum Swart
+889,54580,Protium polybotryum (Turcz.) Engl.
+890,54590,Protium sagotianum Marchand
+891,54594,Protium subserratum (Engl.) Engl.
+892,54595,Protium tenuifolium (Engl.) Engl.
+893,54597,Protium trifoliolatum Engl.
+894,54608,Tetragastris altissima (Aubl.) Swart
+895,54615,Tetragastris panamensis (Engl.) Kuntze
+896,54777,Cabomba aquatica Aubl.
+897,55477,Epiphyllum phyllanthus (L.) Haw.
+898,56868,Rhipsalis baccifera (J.S.Muell.) Stearn
+899,57485,Caraipa densifolia Mart.
+900,57572,Mahurea palustris Aubl.
+901,57575,Mammea americana L.
+902,58398,Centropogon cornutus (L.) Druce
+903,60188,Cinnamodendron tenuifolium Uittien
+904,60309,Trema micrantha (L.) Blume
+905,60320,Canna indica L.
+906,60646,Crateva tapia L.
+907,60659,Cynophalla polyantha (Triana Planch.) Cornejo Iltis
+908,61750,Dendrobangia boliviana Rusby
+909,61792,Carica papaya L.
+910,61859,Caryocar glabrum (Aubl.) Pers.
+911,61862,Caryocar microcarpum Ducke
+912,61864,Caryocar nuciferum L.
+913,61866,Caryocar villosum (Aubl.) Pers.
+914,620,Barleria repens Nees
+915,64672,Cheiloclinium cognatum (Miers) A.C.Sm.
+916,65211,Maytenus oblongata Reissek
+917,65910,Acioa guianensis Aubl.
+918,65928,Chrysobalanus icaco L.
+919,65935,Couepia bracteosa Benth.
+920,65939,Couepia caryophylloides Benoist
+921,65949,Couepia excelsa Ducke
+922,65955,Couepia guianensis Aubl.
+923,65960,Couepia joaquinae Prance
+924,65979,Couepia parillo DC.
+925,66033,Exellodendron barbatum (Ducke) Prance
+926,66056,Hirtella bicornis Mart. Zucc.
+927,66070,Hirtella davisii Sandwith
+928,66083,Hirtella glandulosa Spreng.
+929,66090,Hirtella hispidula Miq.
+930,66108,Hirtella margae Prance
+931,66115,Hirtella paniculata Sw.
+932,66121,Hirtella physophora Mart. Zucc.
+933,66126,Hirtella racemosa Lam.
+934,66143,Hirtella tenuifolia Prance
+935,66171,Licania alba (Bernoulli) Cuatrec.
+936,66173,Licania amapaensis Prance
+937,66197,Licania canescens Benoist
+938,66251,Licania granvillei Prance
+939,66253,Licania guianensis (Aubl.) Griseb.
+940,66257,Licania heteromorpha Benth.
+941,66277,Licania kunthiana Hook.f.
+942,66284,Licania latistipula Prance
+943,66286,Licania leptostachya Benth.
+944,66297,Licania majuscula Sagot
+945,66303,Licania membranacea Sagot ex Laness.
+946,66306,Licania micrantha Miq.
+947,66310,Licania minutiflora (Sagot) Fritsch
+948,66426,Parinari campestris Aubl.
+949,66436,Parinari excelsa Sabine
+950,66853,Cleome rutidosperma DC.
+951,67084,Calophyllum brasiliense Cambess.
+952,67371,Clusia flavida (Benth.) Pipoly
+953,67374,Clusia fockeana Miq.
+954,67386,Clusia grandiflora Splitg.
+955,67457,Clusia nemorosa G.Mey.
+956,67482,Clusia panapanari (Aubl.) Choisy
+957,67517,Clusia purpurea (Splitg.) Engl.
+958,67539,Clusia scrobiculata Benoist
+959,67619,Garcinia benthamiana (Planch. Triana) Pipoly
+960,67784,Garcinia macrophylla Mart.
+961,67786,Garcinia madruno (Kunth) Hammel
+962,67990,Moronobea coccinea Aubl.
+963,68010,Platonia insignis Mart.
+964,68035,Symphonia globulifera L.f.
+965,68084,Tovomita longifolia (Rich.) Hochr.
+966,68097,Tovomita schomburgkii Planch. Triana
+967,68104,Tovomita umbellata Benth.
+968,6834,Sesuvium portulacastrum (L.) L.
+969,68607,Combretum indicum (L.) DeFilipps
+970,68717,Combretum rotundifolium Rich.
+971,68769,Conocarpus erectus L.
+972,68821,Terminalia amazonia (J.F.Gmel.) Exell
+973,69125,Commelina erecta L.
+974,69226,Commelina rufipes Seub.
+975,69344,Dichorisandra hexandra (Aubl.) Standl.
+976,69391,Floscopa peruviana Hassk. ex C.B.Clarke
+977,72999,Ayapana amygdalina (Lam.) R.M.King H.Rob.
+978,73884,Bidens cynapiifolia Kunth
+979,76188,Centratherum punctatum Cass.
+980,7660,Alternanthera brasiliana (L.) Kuntze
+981,76694,Chromolaena odorata (L.) R.M.King H.Rob.
+982,77596,Clibadium surinamense L.
+983,7767,Alternanthera sessilis (L.) R.Br. ex DC.
+984,79435,Cyanthillium cinereum (L.) H.Rob.
+985,80596,Eclipta prostrata (L.) L.
+986,80672,Elephantopus mollis Kunth
+987,80735,Emilia fosbergii Nicolson
+988,80894,Erechtites hieraciifolius (L.) Raf. ex DC.
+989,8656,Cyathula prostrata (L.) Blume
+990,87237,Ichthyothere terminalis (Spreng.) S.F.Blake
+991,90626,Mikania micrantha Kunth
+992,93740,Piptocarpha triflora (Aubl.) Benn. ex Baker
+993,95163,Rolandra fruticosa (L.) Kuntze
+994,98464,Sphagneticola trilobata (L.) Pruski
+995,99040,Struchium sparganophorum (L.) Kuntze
+996,99232,Synedrella nodiflora (L.) Gaertn.
+997,108335,Cucumeropsis mannii Naudin
