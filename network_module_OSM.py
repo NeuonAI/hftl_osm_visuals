@@ -12,7 +12,7 @@ from __future__ import print_function
 
 import os 
 import sys
-sys.path.append("PATH_TO_SLIM") # path to /models/research/slim
+sys.path.append("PATH_TO_TF_SLIM") # path to /models/research/slim
 import tensorflow as tf
 from preprocessing import inception_preprocessing
 slim = tf.contrib.slim

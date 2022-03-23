@@ -6,7 +6,7 @@ current architecture: inception v4
 """
 
 import sys
-sys.path.append("PATH_TO_SLIM") # path to /models/research/slim
+sys.path.append("PATH_TO_TF_SLIM") # path to /models/research/slim
 import tensorflow as tf
 from preprocessing import inception_preprocessing
 slim = tf.contrib.slim
@@ -20,11 +20,11 @@ import datetime
 
 
 # ----- Directories ----- #
-image_dir_parent_train = "PATH_TO_PlantCLEF2021TrainingData"
-image_dir_parent_test = "PATH_TO_PlantCLEF2021TrainingData"
+image_dir_parent_train = "PATH_TO_PlantCLEF2020TrainingData"
+image_dir_parent_test = "PATH_TO_PlantCLEF2020TrainingData"
 
-test_field_file = "list/HFTL/clef2020_known_classes_field_test.txt" # Test Set 1 (with field training data)
-#test_field_file = "list/missing_class_sample.txt" # Test Set 2 (without field training data)
+test_field_file = "list/test_set_1_seen.txt" # Test Set 1 (with field training data)
+#test_field_file = "list/test_set_2_unseen.txt" # Test Set 2 (without field training data)
 
 checkpoint_model = "PATH_TO_TRAINED_MODEL" # .ckpt
 
