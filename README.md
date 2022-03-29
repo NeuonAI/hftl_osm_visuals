@@ -57,10 +57,10 @@ HFTL Network               |  OSM Network
 - [clef2021_field_combined_test.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/field_2021/clef2021_field_combined_test.txt) (test)
  
 ### HFTL Network
-- [clef2020_known_classes_herbarium_train_added.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/HFTL/clef2020_known_classes_herbarium_train_added.txt) (herbarium train)
-- [clef2020_known_classes_herbarium_test.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/HFTL/clef2020_known_classes_herbarium_test.txt) (herbarium test)
-- [clef2020_known_classes_field_train_added.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/HFTL/clef2020_known_classes_field_train_added.txt) (field train)
-- [clef2020_known_classes_field_test.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/HFTL/clef2020_known_classes_field_test.txt) (field test)
+- [clef2021_shared_class_herbarium_train.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/c757a4d956aca59739d39fd60406a1e6c7a8b8a5/list/HFTL/clef2021_shared_class_herbarium_train.txt) (herbarium train)
+- [clef2021_shared_class_herbarium_test.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/c757a4d956aca59739d39fd60406a1e6c7a8b8a5/list/HFTL/clef2021_shared_class_herbarium_test.txt) (herbarium test)
+- [clef2021_shared_class_field_train.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/c757a4d956aca59739d39fd60406a1e6c7a8b8a5/list/HFTL/clef2021_shared_class_field_train.txt) (field train)
+- [clef2021_shared_class_field_test.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/c757a4d956aca59739d39fd60406a1e6c7a8b8a5/list/HFTL/clef2021_shared_class_field_test.txt) (field test)
 
 ### OSM Network
 - [clef2021_mixed_class_train.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/OSM/clef2021_mixed_class_train.txt) (train)
