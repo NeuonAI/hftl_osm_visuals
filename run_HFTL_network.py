@@ -6,11 +6,11 @@ from network_module_HFTL import network_module as net_module
 image_dir_parent_train = "PATH_TO_PlantCLEF2020TrainingData"
 image_dir_parent_test = "PATH_TO_PlantCLEF2020TrainingData"
 
-train_file1 = "list/HFTL/clef2020_known_classes_herbarium_train_added.txt"
-test_file1 = "list/HFTL/clef2020_known_classes_herbarium_test.txt"
+train_file1 = "list/HFTL/clef2021_shared_class_herbarium_train.txt"
+test_file1 = "list/HFTL/clef2021_shared_class_herbarium_test.txt"
 
-train_file2 = "list/HFTL/clef2020_known_classes_field_train_added.txt"
-test_file2 = "list/HFTL/clef2020_known_classes_field_test.txt"
+train_file2 = "list/HFTL/clef2021_shared_class_field_train.txt"
+test_file2 = "list/HFTL/clef2021_shared_class_field_test.txt"
 
 checkpoint_model1 = "PATH_TO_PRETRAINED_HERBARIUM_CHECKPOINT_MODEL" # pretrained herbarium network plantclef 2021 .ckpt
 checkpoint_model2 = "PATH_TO_PRETRAINED_FIELD_CHECKPOINT_MODEL" # pretrained field network plantclef 2021 / 2017 .ckpt
