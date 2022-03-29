@@ -14,7 +14,8 @@ HFTL Network               |  OSM Network
 <br /> (note: the imagenet pretrained models are used to initialize the Herbarium and Field Networks)
 
 ## Data
-The PlantCLEF 2021 training data is used and can be downloaded [here](https://www.aicrowd.com/challenges/lifeclef-2021-plant). Note that it is based on the same visual data from PlantCLEF 2020.
+- [PlantCLEF 2021](https://www.aicrowd.com/challenges/lifeclef-2021-plant) (note: it is based on the same visual data from PlantCLEF 2020)
+- [PlantCLEF 2017](https://www.imageclef.org/lifeclef/2017/plant)
 
 ## Scripts
 ### Training scripts
