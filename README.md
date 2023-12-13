@@ -15,7 +15,7 @@ A machine learning approach for cross-domain plant identification using herbariu
 - Tensorflow 1.12
 - [TensorFlow-Slim library](https://github.com/tensorflow/models/tree/r1.12.0/research/slim)
 - [imagenet pretrained models (inception v4 and inception resnet v2)](https://github.com/tensorflow/models/tree/r1.12.0/research/slim#pre-trained-modelss)
-<br /> (note: the imagenet pretrained models are used to initialize the Herbarium and Field Networks)
+<br /> 
 
 ## Data
 - [PlantCLEF 2021](https://www.aicrowd.com/challenges/lifeclef-2021-plant)
@@ -23,28 +23,28 @@ A machine learning approach for cross-domain plant identification using herbariu
 
 ## Scripts
 ### Training scripts
-- **HFTL Network**
-  - [run_HFTL_network.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/run_HFTL_network.py) (main script)
+- HFTL Network
+  - [run_HFTL_network.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/run_HFTL_network.py)
   - [network_module_HFTL.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/network_module_HFTL.py) 
-- **OSM Network**
-  - [run_OSM_network.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/run_OSM_network.py) (main script)
+- OSM Network
+  - [run_OSM_network.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/run_OSM_network.py)
   - [network_module_OSM.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/network_module_OSM.py)
 
 ### Validation scripts
-- **HFTL Network**
+- HFTL Network
   1. [get_herbarium_dictionary_HFTL.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/get_herbarium_dictionary_HFTL.py)
   2. [validate_HFTL_network.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/validate_HFTL_network.py)
   3. [get_mrr_score.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/get_mrr_score.py)
  
-- **OSM Network**
+- OSM Network
   1. [get_herbarium_dictionary_OSM.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/get_herbarium_dictionary_OSM.py)
   2. [validate_OSM_network.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/validate_OSM_network.py)
   3. [get_mrr_score.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/get_mrr_score.py)
 
 ### Visualizing activation map scripts
-- **HFTL Network**
+- HFTL Network
   - [visualise_prediction_HFTL-IR.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/59b88c4379f56fc52dccd7421d23cfccc440d2c0/visualise_prediction_HFTL-IR.py)
-- **OSM Network**
+- OSM Network
   - [visualise_prediction_OSM-IR.py](https://github.com/NeuonAI/hftl_osm_visuals/blob/59b88c4379f56fc52dccd7421d23cfccc440d2c0/visualise_prediction_OSM-IR.py)
 
 ## Lists
@@ -71,8 +71,8 @@ A machine learning approach for cross-domain plant identification using herbariu
 - [clef2021_mixed_class_test.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/OSM/clef2021_mixed_class_test.txt)
 
 #### Herbarium Dictionary
-- [herbarium_dictionary.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/herbarium_dictionary.txt) (without field bias)
-- [herbarium_dictionary_with_field_bias.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/herbarium_dictionary_with_field_bias.txt) (with field bias)
+- [herbarium_dictionary.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/herbarium_dictionary.txt)
+- [herbarium_dictionary_with_field_bias.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/herbarium_dictionary_with_field_bias.txt)
  
 #### Test Sets
 - [test_set_1_seen.txt](https://github.com/NeuonAI/hftl_osm_visuals/blob/a18b595d9e42c78156ed25c9c9b1124d2f14a4d0/list/test_set_1_seen.txt) (with field training images)
@@ -80,10 +80,10 @@ A machine learning approach for cross-domain plant identification using herbariu
   (note: the [image files from Test Set 2](https://github.com/NeuonAI/hftl_osm_visuals/tree/main/planttest) are sourced from Google Image queries)
 
 ## Checkpoints / Trained models
-- **HFTL Network**
+- HFTL Network
   - [HFTL inception resnet v2 model](https://github.com/NeuonAI/hftl_osm_visuals/tree/main/checkpoints/HFTL/inception_resnet_v2)
   - [HFTL inception v4 model](https://github.com/NeuonAI/hftl_osm_visuals/tree/main/checkpoints/HFTL/inception_v4)
-- **OSM Network**
+- OSM Network
   - [OSM inception resnet v2 model](https://github.com/NeuonAI/hftl_osm_visuals/tree/main/checkpoints/OSM/inception_resnet_v2)
   - [OSM inception v4 model](https://github.com/NeuonAI/hftl_osm_visuals/tree/main/checkpoints/OSM/inception_v4)
 
